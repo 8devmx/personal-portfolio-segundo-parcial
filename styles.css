@@ -102,3 +102,29 @@
   text-decoration: none;
   letter-spacing: 3px;
 }
+
+
+.cases_studies {
+  padding-top: 129px;
+}
+
+.cases_studies_header {
+  margin: auto;
+  text-align: center;
+  width: 888px;
+}
+
+.cases_studies_header h2 {
+  font-size: 34px;
+  font-family: var(--font-primary);
+  font-weight: 900;
+  margin-bottom: 10px;
+  color: #080808;
+}
+
+.cases_studies_header p {
+  font-size: 14px;
+  font-family: var(--font-secondary);
+  color: #9C9C9C;
+  line-height: 24px;
+}
